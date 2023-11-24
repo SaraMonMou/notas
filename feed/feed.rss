@@ -1,0 +1,15 @@
+<rss version="2.0">
+    <channel>
+        <title>Games online</title>
+        <description>Website about games online</description>
+        <link>http://</link> 
+        <pubDate>Fri, 24 Nov 2023 09:30:00 GMT</pubDate>
+        <managingEditor>correo@correo.com</managingEditor>
+        <item>
+            <title>Ikariam</title>
+            <link>http://</link>
+            <pubDate>Fri, 24 Nov 2023 09:40:00 GMT</pubDate>
+            <description>Ikariam</description>
+        </item>
+    </channel>
+</rss>
